@@ -1,0 +1,28 @@
+{
+  "enword": {
+    "precision": 1.0,
+    "recall": 0.2727272727272727,
+    "f1-score": 0.42857142857142855,
+    "support": 11,
+    "confused_with": {}
+  },
+  "micro avg": {
+    "precision": 1.0,
+    "recall": 0.2727272727272727,
+    "f1-score": 0.42857142857142855,
+    "support": 11
+  },
+  "macro avg": {
+    "precision": 1.0,
+    "recall": 0.2727272727272727,
+    "f1-score": 0.42857142857142855,
+    "support": 11
+  },
+  "weighted avg": {
+    "precision": 1.0,
+    "recall": 0.2727272727272727,
+    "f1-score": 0.4285714285714286,
+    "support": 11
+  },
+  "accuracy": 0.9832285115303984
+}

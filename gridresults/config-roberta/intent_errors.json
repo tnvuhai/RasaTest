@@ -1,0 +1,354 @@
+[
+  {
+    "text": "vâng",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5783672332763672
+    }
+  },
+  {
+    "text": "được rồi",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "ask_love",
+      "confidence": 0.29676175117492676
+    }
+  },
+  {
+    "text": "tất nhiên",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "scold",
+      "confidence": 0.3011089265346527
+    }
+  },
+  {
+    "text": "ai là người tạo ra bạn",
+    "intent": "ask_author",
+    "intent_prediction": {
+      "name": "how_are_u",
+      "confidence": 0.30205535888671875
+    }
+  },
+  {
+    "text": "tôi thích bạn",
+    "intent": "ask_love",
+    "intent_prediction": {
+      "name": "wat_name",
+      "confidence": 0.16032250225543976
+    }
+  },
+  {
+    "text": "bạn có người yêu chưa",
+    "intent": "ask_relationship",
+    "intent_prediction": {
+      "name": "ask_love",
+      "confidence": 0.9299257397651672
+    }
+  },
+  {
+    "text": "hoàn toàn không",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9261016249656677
+    }
+  },
+  {
+    "text": "cứu",
+    "intent": "help",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.30880007147789
+    }
+  },
+  {
+    "text": "bạn có khỏe không",
+    "intent": "how_are_u",
+    "intent_prediction": {
+      "name": "ask_relationship",
+      "confidence": 0.4575353264808655
+    }
+  },
+  {
+    "text": "bạn có thể làm gì nào",
+    "intent": "introduce",
+    "intent_prediction": {
+      "name": "ask_love",
+      "confidence": 0.3353002071380615
+    }
+  },
+  {
+    "text": "bạn có thể giúp gì cho tôi",
+    "intent": "introduce",
+    "intent_prediction": {
+      "name": "help",
+      "confidence": 0.7021238803863525
+    }
+  },
+  {
+    "text": "beautiful nghĩa là gì",
+    "intent": "lookUp_english",
+    "intent_prediction": {
+      "name": "gender",
+      "confidence": 0.5298025012016296
+    }
+  },
+  {
+    "text": "handsome nghĩa tiếng việt là gì",
+    "intent": "lookUp_english",
+    "intent_prediction": {
+      "name": "introduce",
+      "confidence": 0.39124488830566406
+    }
+  },
+  {
+    "text": "đáng kinh ngạc",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "scold",
+      "confidence": 0.9634401798248291
+    }
+  },
+  {
+    "text": "rất tệ",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6486353874206543
+    }
+  },
+  {
+    "text": "kinh khủng",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "scold",
+      "confidence": 0.9830422401428223
+    }
+  },
+  {
+    "text": "huhu",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.1393456906080246
+    }
+  },
+  {
+    "text": "mất dạy",
+    "intent": "scold",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.25636014342308044
+    }
+  },
+  {
+    "text": "vô học",
+    "intent": "scold",
+    "intent_prediction": {
+      "name": "how_old",
+      "confidence": 0.4241443872451782
+    }
+  },
+  {
+    "text": "bạn bị ngu hả",
+    "intent": "scold",
+    "intent_prediction": {
+      "name": "gender",
+      "confidence": 0.6123415231704712
+    }
+  },
+  {
+    "text": "ôi trời",
+    "intent": "suprise",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.15062330663204193
+    }
+  },
+  {
+    "text": "trời ơi",
+    "intent": "suprise",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.28583383560180664
+    }
+  },
+  {
+    "text": "nghe hay đó",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "gender",
+      "confidence": 0.8552937507629395
+    }
+  },
+  {
+    "text": "chính xác",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "help",
+      "confidence": 0.15322907269001007
+    }
+  },
+  {
+    "text": "ok",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.17777176201343536
+    }
+  },
+  {
+    "text": "okay",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "gender",
+      "confidence": 0.7463316321372986
+    }
+  },
+  {
+    "text": "bạn có yêu tôi không",
+    "intent": "ask_love",
+    "intent_prediction": {
+      "name": "ask_relationship",
+      "confidence": 0.527182400226593
+    }
+  },
+  {
+    "text": "bạn giới tính là gì",
+    "intent": "gender",
+    "intent_prediction": {
+      "name": "wat_name",
+      "confidence": 0.1901157796382904
+    }
+  },
+  {
+    "text": "tạm biệt",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.29056692123413086
+    }
+  },
+  {
+    "text": "này",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "scold",
+      "confidence": 0.19335001707077026
+    }
+  },
+  {
+    "text": "giúp tôi",
+    "intent": "help",
+    "intent_prediction": {
+      "name": "introduce",
+      "confidence": 0.8270303606987
+    }
+  },
+  {
+    "text": "giúp với",
+    "intent": "help",
+    "intent_prediction": {
+      "name": "introduce",
+      "confidence": 0.671495795249939
+    }
+  },
+  {
+    "text": "dạo này bạn thế nào",
+    "intent": "how_are_u",
+    "intent_prediction": {
+      "name": "address",
+      "confidence": 0.34142252802848816
+    }
+  },
+  {
+    "text": "bạn sao rồi",
+    "intent": "how_are_u",
+    "intent_prediction": {
+      "name": "how_old",
+      "confidence": 0.7047004103660583
+    }
+  },
+  {
+    "text": "kiểm tra",
+    "intent": "introduce",
+    "intent_prediction": {
+      "name": "suprise",
+      "confidence": 0.2902471125125885
+    }
+  },
+  {
+    "text": "bạn được việc không",
+    "intent": "introduce",
+    "intent_prediction": {
+      "name": "ask_love",
+      "confidence": 0.3731677234172821
+    }
+  },
+  {
+    "text": "hoàn hảo",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9412147998809814
+    }
+  },
+  {
+    "text": "tôi rất khỏe",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "how_are_u",
+      "confidence": 0.7449122667312622
+    }
+  },
+  {
+    "text": "không ổn lắm",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9378414154052734
+    }
+  },
+  {
+    "text": "khùng quá",
+    "intent": "scold",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.6828927397727966
+    }
+  },
+  {
+    "text": "chập mạch",
+    "intent": "scold",
+    "intent_prediction": {
+      "name": "help",
+      "confidence": 0.20715436339378357
+    }
+  },
+  {
+    "text": "thần kinh",
+    "intent": "scold",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.6975122094154358
+    }
+  },
+  {
+    "text": "quao",
+    "intent": "suprise",
+    "intent_prediction": {
+      "name": "scold",
+      "confidence": 0.23663954436779022
+    }
+  },
+  {
+    "text": "wow",
+    "intent": "suprise",
+    "intent_prediction": {
+      "name": "lookUp_english",
+      "confidence": 0.466545045375824
+    }
+  }
+]

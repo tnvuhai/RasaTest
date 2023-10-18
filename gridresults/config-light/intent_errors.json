@@ -1,0 +1,402 @@
+[
+  {
+    "text": "tất nhiên",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.2794353663921356
+    }
+  },
+  {
+    "text": "nghe hay đó",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "gender",
+      "confidence": 0.8754403591156006
+    }
+  },
+  {
+    "text": "chính xác",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.14222820103168488
+    }
+  },
+  {
+    "text": "bạn có yêu tôi không",
+    "intent": "ask_love",
+    "intent_prediction": {
+      "name": "ask_relationship",
+      "confidence": 0.8825989365577698
+    }
+  },
+  {
+    "text": "kể chuyện cho mình nghe đi",
+    "intent": "comedy_story",
+    "intent_prediction": {
+      "name": "sing_poem",
+      "confidence": 0.8236834406852722
+    }
+  },
+  {
+    "text": "tôi không nghĩ vậy",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "ask_love",
+      "confidence": 0.18582044541835785
+    }
+  },
+  {
+    "text": "đừng như vậy chứ",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "address",
+      "confidence": 0.17860591411590576
+    }
+  },
+  {
+    "text": "không đời nào",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "address",
+      "confidence": 0.8150071501731873
+    }
+  },
+  {
+    "text": "tạm biệt",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.5141180157661438
+    }
+  },
+  {
+    "text": "này",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3199363350868225
+    }
+  },
+  {
+    "text": "dạo này bạn thế nào",
+    "intent": "how_are_u",
+    "intent_prediction": {
+      "name": "address",
+      "confidence": 0.9123421311378479
+    }
+  },
+  {
+    "text": "bạn sinh năm bao nhiêu",
+    "intent": "how_old",
+    "intent_prediction": {
+      "name": "address",
+      "confidence": 0.44480255246162415
+    }
+  },
+  {
+    "text": "kiểm tra",
+    "intent": "introduce",
+    "intent_prediction": {
+      "name": "lookUp_english",
+      "confidence": 0.37136971950531006
+    }
+  },
+  {
+    "text": "beautiful nghĩa là gì",
+    "intent": "lookUp_english",
+    "intent_prediction": {
+      "name": "wat_name",
+      "confidence": 0.27301543951034546
+    }
+  },
+  {
+    "text": "đáng kinh ngạc",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.6942289471626282
+    }
+  },
+  {
+    "text": "hoàn hảo",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9656219482421875
+    }
+  },
+  {
+    "text": "tệ",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.2602841258049011
+    }
+  },
+  {
+    "text": "rất tệ",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9892227649688721
+    }
+  },
+  {
+    "text": "tồi tệ",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.3528447151184082
+    }
+  },
+  {
+    "text": "huhu",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2953140139579773
+    }
+  },
+  {
+    "text": "khùng quá",
+    "intent": "scold",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.6773198843002319
+    }
+  },
+  {
+    "text": "điên quá",
+    "intent": "scold",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.3324444890022278
+    }
+  },
+  {
+    "text": "chập mạch",
+    "intent": "scold",
+    "intent_prediction": {
+      "name": "sing_poem",
+      "confidence": 0.2169126719236374
+    }
+  },
+  {
+    "text": "ngáo quá",
+    "intent": "scold",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.40047284960746765
+    }
+  },
+  {
+    "text": "bạn biết hát không",
+    "intent": "sing_poem",
+    "intent_prediction": {
+      "name": "comedy_story",
+      "confidence": 0.2666454017162323
+    }
+  },
+  {
+    "text": "bạn biết đọc thơ không",
+    "intent": "sing_poem",
+    "intent_prediction": {
+      "name": "comedy_story",
+      "confidence": 0.20505928993225098
+    }
+  },
+  {
+    "text": "quao",
+    "intent": "suprise",
+    "intent_prediction": {
+      "name": "scold",
+      "confidence": 0.36711814999580383
+    }
+  },
+  {
+    "text": "vâng",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3303804099559784
+    }
+  },
+  {
+    "text": "được rồi",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "ask_love",
+      "confidence": 0.8246416449546814
+    }
+  },
+  {
+    "text": "ok",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.551581621170044
+    }
+  },
+  {
+    "text": "ai là người tạo ra bạn",
+    "intent": "ask_author",
+    "intent_prediction": {
+      "name": "gender",
+      "confidence": 0.6434622406959534
+    }
+  },
+  {
+    "text": "bạn có yêu ai không",
+    "intent": "ask_relationship",
+    "intent_prediction": {
+      "name": "ask_love",
+      "confidence": 0.6907650828361511
+    }
+  },
+  {
+    "text": "hong",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.8261134624481201
+    }
+  },
+  {
+    "text": "hoàn toàn không",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9354007840156555
+    }
+  },
+  {
+    "text": "bạn có khỏe không",
+    "intent": "how_are_u",
+    "intent_prediction": {
+      "name": "ask_relationship",
+      "confidence": 0.5706251859664917
+    }
+  },
+  {
+    "text": "bạn sao rồi",
+    "intent": "how_are_u",
+    "intent_prediction": {
+      "name": "how_old",
+      "confidence": 0.8619006872177124
+    }
+  },
+  {
+    "text": "bạn có thể giúp gì cho tôi",
+    "intent": "introduce",
+    "intent_prediction": {
+      "name": "help",
+      "confidence": 0.3796520531177521
+    }
+  },
+  {
+    "text": "bạn biết làm gì",
+    "intent": "introduce",
+    "intent_prediction": {
+      "name": "sing_poem",
+      "confidence": 0.3707655072212219
+    }
+  },
+  {
+    "text": "bạn được việc không",
+    "intent": "introduce",
+    "intent_prediction": {
+      "name": "ask_love",
+      "confidence": 0.9574602246284485
+    }
+  },
+  {
+    "text": "quá chán",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "scold",
+      "confidence": 0.8208691477775574
+    }
+  },
+  {
+    "text": "kinh khủng",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.8394851088523865
+    }
+  },
+  {
+    "text": "không ổn lắm",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.928359866142273
+    }
+  },
+  {
+    "text": "cực kỳ chán",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3256016969680786
+    }
+  },
+  {
+    "text": "mất dạy",
+    "intent": "scold",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3417555093765259
+    }
+  },
+  {
+    "text": "vô học",
+    "intent": "scold",
+    "intent_prediction": {
+      "name": "how_old",
+      "confidence": 0.40251457691192627
+    }
+  },
+  {
+    "text": "bạn bị ngu hả",
+    "intent": "scold",
+    "intent_prediction": {
+      "name": "gender",
+      "confidence": 0.895389974117279
+    }
+  },
+  {
+    "text": "thần kinh",
+    "intent": "scold",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.8832552433013916
+    }
+  },
+  {
+    "text": "hát cho mình nghe đi",
+    "intent": "sing_poem",
+    "intent_prediction": {
+      "name": "comedy_story",
+      "confidence": 0.4953957200050354
+    }
+  },
+  {
+    "text": "wow",
+    "intent": "suprise",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5671187043190002
+    }
+  },
+  {
+    "text": "tên của bạn là gì",
+    "intent": "wat_name",
+    "intent_prediction": {
+      "name": "gender",
+      "confidence": 0.3655427396297455
+    }
+  }
+]
